@@ -1,11 +1,9 @@
 ### Image_clustering
 Draw clusters of image dataset using statistical inference
 
-Activate conda environment
+Open the terminal inside working directory. Activate conda environment and install required packages using pip as follows
 
 > conda activate envName
-
-> Install required packages using pip as follows
 
 > pip install opencv-python
 
@@ -14,3 +12,16 @@ Activate conda environment
 > pip install scikit-learn
 
 > pip install matplotlib
+
+# clone the repository
+
+> git clone ....
+
+
+copy your images into iput folder
+
+Run following command in terminal
+
+> python clustering.py
+
+
