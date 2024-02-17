@@ -3,13 +3,14 @@ Draw clusters of image dataset using statistical inference
 
 Activate conda environment
 
-conda activate envName
+> conda activate envName
 
-Install required packages using pip as follows
-pip install opencv-python
+> Install required packages using pip as follows
 
-pip install numpy
+> pip install opencv-python
 
-pip install scikit-learn
+> pip install numpy
 
-pip install matplotlib
+> pip install scikit-learn
+
+> pip install matplotlib
